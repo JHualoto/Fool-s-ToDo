@@ -5,9 +5,15 @@
 ## To-Do Challenge
 Create a small TODO application. Our hope is that you'll find this project a bit like a blank canvas, you can fill it in however you please to show us something about yourself, thought process, and development style. 
 
-* As a user, you'll be able to create new tasks and assign each task to someone. 
+## As a user: 
+* You'll be able to create new tasks and assign each task to someone. 
 * Feel the need to update your task? Hit the Edit button to display a modal which will allow you to update the task name. 
 * If you were productive enough, delete old tasks and start fresh! Enjoy!
+
+
+## Reflections
+
+  This project allowed me to further practice the skills that I've gained thus far as a software developer. Since my technical bootcamp's curriculum revolved around the PERN stack, I wanted to showcase a minimal viable product using relevant technologies. When building out this small application, I learned that having a strong sense of technical ability and foresight for building out a competent file structure is important. However, this challenge brought on various small hurdles that proved to take more time than I would've liked such as: setting up a template from scratch, minor webpack issues, deciding the best route for quick design implementation(bootstrap, flexbox, styled components, etc) along with other minor set backs such as: logging out to see responses from api endpoints, reading documentation for appropriate sequelize methods, and implementing a modal which contains the desired text for updating. Lastly and most importantly, this challenge has taught me to be more patient with myself and the journey that comes with learning/relearning concepts as I further progress into this career path. 
 
 ## Stretch Features/Improvements
 
