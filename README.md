@@ -15,6 +15,8 @@ Create a small TODO application. Our hope is that you'll find this project a bit
 - Add cosmetic updates to make the application more appealing/responsive.
 - To create a more organized/condensed file structure, implement Styled components for styling.
 - Create a button which would filter and alphabetize tasks by name or assignee.
+- As an alternative to the above enhancement, implement React Beautiful Drag and drop to re-order items dynamically
+- Refactor code to update displayed data upon task creation
 - Make the application mobile friendly implementing a new framework such as: React Native.
 
 ## Getting Started 
