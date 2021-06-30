@@ -11,8 +11,8 @@ Create a small TODO application. Our hope is that you'll find this project a bit
 
 ## Stretch Features/Improvements
 
-- If given the chance to further expand on this project, I would:
-- Add cosmetic updates to make the application more appealing/Responsive.
+### If given the chance to further expand on this project, I would:
+- Add cosmetic updates to make the application more appealing/responsive.
 - To create a more organized/condensed file structure, implement Styled components for styling.
 - Create a button which would filter and alphabetize tasks by name or assignee.
 - Make the application mobile friendly implementing a new framework such as: React Native.
@@ -20,12 +20,18 @@ Create a small TODO application. Our hope is that you'll find this project a bit
 ## Getting Started 
 
 ```
-Fork/Clone this repo
-CD into directory
-Install dependencies: `npm install`
-Create Postgres Database: FoolsToDo
-To start development server and seed database: `npm run start-dev`
-Open browser and type: http://localhost:1337/#/
+Open terminal:
+- Go into a directory of your choosing and run this command:
+- git clone https://github.com/JHualoto/Fool-s-ToDo.git
+- cd Fool-s-ToDo
+Open the folder into an IDE:
+- code . OR drag folder into IDE
+While in directory, run:
+- npm install
+- createdb FoolsToDo or CREATE DATABASE FoolsToDo or Create your database manually in a database GUI such as: Postico.
+Starting up the repository and seeding your database:
+- npm run start-dev
+Open browser of your choosing and type: http://localhost:1337/
 ```
 
 ### Dependencies
@@ -41,7 +47,7 @@ Open browser and type: http://localhost:1337/#/
 * Axios
 
 
-## Authors
+## Author
 
 Jonathan Hualoto 
 
@@ -52,4 +58,4 @@ Jonathan Hualoto
 
 ## Acknowledgments
 
-1. [Starter Template Inspired By Fullstack Academy's Boilerplate](https://github.com/FullstackAcademy/boilermaker)
+1. Starter template created by me.
